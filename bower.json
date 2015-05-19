@@ -1,0 +1,17 @@
+{
+  "name": "node-gulp",
+  "version": "1.0.0",
+  "authors": [
+    "João Antonio Ferreira <joao.parana@gmail.com>"
+  ],
+  "description": "Node JS App",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
